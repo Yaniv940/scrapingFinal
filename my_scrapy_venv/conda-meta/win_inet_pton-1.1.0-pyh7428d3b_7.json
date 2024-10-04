@@ -1,0 +1,51 @@
+{
+  "build": "pyh7428d3b_7",
+  "build_number": 7,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "__win",
+    "python >=3.6"
+  ],
+  "extracted_package_dir": "C:\\Users\\YanivIdov\\anaconda3\\pkgs\\win_inet_pton-1.1.0-pyh7428d3b_7",
+  "files": [
+    "Lib/site-packages/win_inet_pton-1.1.0.dist-info/INSTALLER",
+    "Lib/site-packages/win_inet_pton-1.1.0.dist-info/LICENSE",
+    "Lib/site-packages/win_inet_pton-1.1.0.dist-info/METADATA",
+    "Lib/site-packages/win_inet_pton-1.1.0.dist-info/RECORD",
+    "Lib/site-packages/win_inet_pton-1.1.0.dist-info/REQUESTED",
+    "Lib/site-packages/win_inet_pton-1.1.0.dist-info/WHEEL",
+    "Lib/site-packages/win_inet_pton-1.1.0.dist-info/direct_url.json",
+    "Lib/site-packages/win_inet_pton-1.1.0.dist-info/top_level.txt",
+    "Lib/site-packages/win_inet_pton.py",
+    ".nonadmin",
+    "Lib/site-packages/__pycache__/win_inet_pton.cpython-312.pyc"
+  ],
+  "fn": "win_inet_pton-1.1.0-pyh7428d3b_7.conda",
+  "license": "LicenseRef-Public-Domain",
+  "link": {
+    "source": "C:\\Users\\YanivIdov\\anaconda3\\pkgs\\win_inet_pton-1.1.0-pyh7428d3b_7",
+    "type": 1
+  },
+  "md5": "c998c13b2f998af57c3b88c7a47979e0",
+  "name": "win_inet_pton",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\YanivIdov\\anaconda3\\pkgs\\win_inet_pton-1.1.0-pyh7428d3b_7.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/__pycache__/win_inet_pton.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "c5297692ab34aade5e21107abaf623d6f93847662e25f655320038d2bfa1a812",
+  "size": 9602,
+  "subdir": "noarch",
+  "timestamp": 1727796413000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/win_inet_pton-1.1.0-pyh7428d3b_7.conda",
+  "version": "1.1.0"
+}

@@ -1,0 +1,35 @@
+{
+  "build": "hd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "service-identity >=24.1.0,<24.1.1.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\YanivIdov\\anaconda3\\pkgs\\service_identity-24.1.0-hd8ed1ab_0",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "service_identity-24.1.0-hd8ed1ab_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\YanivIdov\\anaconda3\\pkgs\\service_identity-24.1.0-hd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "cc3cf670d21615ceb398146ed42bf97e",
+  "name": "service_identity",
+  "noarch": "generic",
+  "package_tarball_full_path": "C:\\Users\\YanivIdov\\anaconda3\\pkgs\\service_identity-24.1.0-hd8ed1ab_0.conda",
+  "package_type": "noarch_generic",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "e55a1f4bba3a4d2dc37973903c22d8a698a9f69a54e996d57d9d00b69e0e0657",
+  "size": 6525,
+  "subdir": "noarch",
+  "timestamp": 1723508842000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/service_identity-24.1.0-hd8ed1ab_0.conda",
+  "version": "24.1.0"
+}

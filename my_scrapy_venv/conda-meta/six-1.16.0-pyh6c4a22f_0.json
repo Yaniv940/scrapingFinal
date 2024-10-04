@@ -1,0 +1,50 @@
+{
+  "build": "pyh6c4a22f_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\YanivIdov\\anaconda3\\pkgs\\six-1.16.0-pyh6c4a22f_0",
+  "files": [
+    "Lib/site-packages/six-1.16.0.dist-info/INSTALLER",
+    "Lib/site-packages/six-1.16.0.dist-info/LICENSE",
+    "Lib/site-packages/six-1.16.0.dist-info/METADATA",
+    "Lib/site-packages/six-1.16.0.dist-info/RECORD",
+    "Lib/site-packages/six-1.16.0.dist-info/REQUESTED",
+    "Lib/site-packages/six-1.16.0.dist-info/WHEEL",
+    "Lib/site-packages/six-1.16.0.dist-info/direct_url.json",
+    "Lib/site-packages/six-1.16.0.dist-info/top_level.txt",
+    "Lib/site-packages/six.py",
+    ".nonadmin",
+    "Lib/site-packages/__pycache__/six.cpython-312.pyc"
+  ],
+  "fn": "six-1.16.0-pyh6c4a22f_0.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\YanivIdov\\anaconda3\\pkgs\\six-1.16.0-pyh6c4a22f_0",
+    "type": 1
+  },
+  "md5": "e5f25f8dbc060e9a8d912e432202afc2",
+  "name": "six",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\YanivIdov\\anaconda3\\pkgs\\six-1.16.0-pyh6c4a22f_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/__pycache__/six.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "a85c38227b446f42c5b90d9b642f2c0567880c15d72492d8da074a59c8f91dd6",
+  "size": 14259,
+  "subdir": "noarch",
+  "timestamp": 1620240338000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/six-1.16.0-pyh6c4a22f_0.tar.bz2",
+  "version": "1.16.0"
+}

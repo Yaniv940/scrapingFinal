@@ -1,0 +1,50 @@
+{
+  "build": "py312h2615798_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0",
+    "python_abi 3.12.* *_cp312",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139"
+  ],
+  "extracted_package_dir": "C:\\Users\\YanivIdov\\anaconda3\\pkgs\\bcrypt-4.2.0-py312h2615798_1",
+  "files": [
+    "Lib/site-packages/bcrypt-4.2.0.dist-info/INSTALLER",
+    "Lib/site-packages/bcrypt-4.2.0.dist-info/LICENSE",
+    "Lib/site-packages/bcrypt-4.2.0.dist-info/METADATA",
+    "Lib/site-packages/bcrypt-4.2.0.dist-info/RECORD",
+    "Lib/site-packages/bcrypt-4.2.0.dist-info/REQUESTED",
+    "Lib/site-packages/bcrypt-4.2.0.dist-info/WHEEL",
+    "Lib/site-packages/bcrypt-4.2.0.dist-info/direct_url.json",
+    "Lib/site-packages/bcrypt-4.2.0.dist-info/top_level.txt",
+    "Lib/site-packages/bcrypt/__init__.py",
+    "Lib/site-packages/bcrypt/__init__.pyi",
+    "Lib/site-packages/bcrypt/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/bcrypt/_bcrypt.cp312-win_amd64.pyd",
+    "Lib/site-packages/bcrypt/py.typed",
+    ".nonadmin"
+  ],
+  "fn": "bcrypt-4.2.0-py312h2615798_1.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "C:\\Users\\YanivIdov\\anaconda3\\pkgs\\bcrypt-4.2.0-py312h2615798_1",
+    "type": 1
+  },
+  "md5": "b3a9c19af8b4c86796a44ce67dbddbf4",
+  "name": "bcrypt",
+  "package_tarball_full_path": "C:\\Users\\YanivIdov\\anaconda3\\pkgs\\bcrypt-4.2.0-py312h2615798_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "14de9e04eae6feb898cf328b94d0bea3515110c2a27234f1cb0e2eec49ce9205",
+  "size": 143758,
+  "subdir": "win-64",
+  "timestamp": 1724961509000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/bcrypt-4.2.0-py312h2615798_1.conda",
+  "version": "4.2.0"
+}

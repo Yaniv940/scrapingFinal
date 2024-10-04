@@ -1,0 +1,39 @@
+{
+  "build": "h2466b09_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139"
+  ],
+  "extracted_package_dir": "C:\\Users\\YanivIdov\\anaconda3\\pkgs\\libsqlite-3.46.1-h2466b09_0",
+  "files": [
+    "Library/bin/sqlite3.dll",
+    "Library/include/sqlite3.h",
+    "Library/include/sqlite3ext.h",
+    "Library/lib/sqlite3.lib",
+    ".nonadmin"
+  ],
+  "fn": "libsqlite-3.46.1-h2466b09_0.conda",
+  "license": "Unlicense",
+  "link": {
+    "source": "C:\\Users\\YanivIdov\\anaconda3\\pkgs\\libsqlite-3.46.1-h2466b09_0",
+    "type": 1
+  },
+  "md5": "8a7c1ad01f58623bfbae8d601db7cf3b",
+  "name": "libsqlite",
+  "package_tarball_full_path": "C:\\Users\\YanivIdov\\anaconda3\\pkgs\\libsqlite-3.46.1-h2466b09_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "ef83f90961630bc54a95e48062b05cf9c9173a822ea01784288029613a45eea4",
+  "size": 876666,
+  "subdir": "win-64",
+  "timestamp": 1725354171000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/libsqlite-3.46.1-h2466b09_0.conda",
+  "version": "3.46.1"
+}

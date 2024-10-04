@@ -1,0 +1,92 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.6"
+  ],
+  "extracted_package_dir": "C:\\Users\\YanivIdov\\anaconda3\\pkgs\\idna-3.10-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/idna-3.10.dist-info/INSTALLER",
+    "Lib/site-packages/idna-3.10.dist-info/LICENSE.md",
+    "Lib/site-packages/idna-3.10.dist-info/METADATA",
+    "Lib/site-packages/idna-3.10.dist-info/RECORD",
+    "Lib/site-packages/idna-3.10.dist-info/REQUESTED",
+    "Lib/site-packages/idna-3.10.dist-info/WHEEL",
+    "Lib/site-packages/idna-3.10.dist-info/direct_url.json",
+    "Lib/site-packages/idna/__init__.py",
+    "Lib/site-packages/idna/codec.py",
+    "Lib/site-packages/idna/compat.py",
+    "Lib/site-packages/idna/core.py",
+    "Lib/site-packages/idna/idnadata.py",
+    "Lib/site-packages/idna/intranges.py",
+    "Lib/site-packages/idna/package_data.py",
+    "Lib/site-packages/idna/py.typed",
+    "Lib/site-packages/idna/uts46data.py",
+    ".nonadmin",
+    "Lib/site-packages/idna/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/idna/__pycache__/codec.cpython-312.pyc",
+    "Lib/site-packages/idna/__pycache__/compat.cpython-312.pyc",
+    "Lib/site-packages/idna/__pycache__/core.cpython-312.pyc",
+    "Lib/site-packages/idna/__pycache__/idnadata.cpython-312.pyc",
+    "Lib/site-packages/idna/__pycache__/intranges.cpython-312.pyc",
+    "Lib/site-packages/idna/__pycache__/package_data.cpython-312.pyc",
+    "Lib/site-packages/idna/__pycache__/uts46data.cpython-312.pyc"
+  ],
+  "fn": "idna-3.10-pyhd8ed1ab_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\YanivIdov\\anaconda3\\pkgs\\idna-3.10-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "7ba2ede0e7c795ff95088daf0dc59753",
+  "name": "idna",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\YanivIdov\\anaconda3\\pkgs\\idna-3.10-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/idna/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/idna/__pycache__/codec.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/idna/__pycache__/compat.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/idna/__pycache__/core.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/idna/__pycache__/idnadata.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/idna/__pycache__/intranges.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/idna/__pycache__/package_data.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/idna/__pycache__/uts46data.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "8c57fd68e6be5eecba4462e983aed7e85761a519aab80e834bbd7794d4b545b2",
+  "size": 49837,
+  "subdir": "noarch",
+  "timestamp": 1726459583000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/idna-3.10-pyhd8ed1ab_0.conda",
+  "version": "3.10"
+}

@@ -1,0 +1,88 @@
+{
+  "build": "pyh9f0ad1d_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\YanivIdov\\anaconda3\\pkgs\\hpack-4.0.0-pyh9f0ad1d_0",
+  "files": [
+    "Lib/site-packages/hpack-4.0.0-py3.6.egg-info/PKG-INFO",
+    "Lib/site-packages/hpack-4.0.0-py3.6.egg-info/SOURCES.txt",
+    "Lib/site-packages/hpack-4.0.0-py3.6.egg-info/dependency_links.txt",
+    "Lib/site-packages/hpack-4.0.0-py3.6.egg-info/top_level.txt",
+    "Lib/site-packages/hpack/__init__.py",
+    "Lib/site-packages/hpack/exceptions.py",
+    "Lib/site-packages/hpack/hpack.py",
+    "Lib/site-packages/hpack/huffman.py",
+    "Lib/site-packages/hpack/huffman_constants.py",
+    "Lib/site-packages/hpack/huffman_table.py",
+    "Lib/site-packages/hpack/struct.py",
+    "Lib/site-packages/hpack/table.py",
+    ".nonadmin",
+    "Lib/site-packages/hpack/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/hpack/__pycache__/exceptions.cpython-312.pyc",
+    "Lib/site-packages/hpack/__pycache__/hpack.cpython-312.pyc",
+    "Lib/site-packages/hpack/__pycache__/huffman.cpython-312.pyc",
+    "Lib/site-packages/hpack/__pycache__/huffman_constants.cpython-312.pyc",
+    "Lib/site-packages/hpack/__pycache__/huffman_table.cpython-312.pyc",
+    "Lib/site-packages/hpack/__pycache__/struct.cpython-312.pyc",
+    "Lib/site-packages/hpack/__pycache__/table.cpython-312.pyc"
+  ],
+  "fn": "hpack-4.0.0-pyh9f0ad1d_0.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\YanivIdov\\anaconda3\\pkgs\\hpack-4.0.0-pyh9f0ad1d_0",
+    "type": 1
+  },
+  "md5": "914d6646c4dbb1fd3ff539830a12fd71",
+  "name": "hpack",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\YanivIdov\\anaconda3\\pkgs\\hpack-4.0.0-pyh9f0ad1d_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/hpack/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/hpack/__pycache__/exceptions.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/hpack/__pycache__/hpack.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/hpack/__pycache__/huffman.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/hpack/__pycache__/huffman_constants.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/hpack/__pycache__/huffman_table.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/hpack/__pycache__/struct.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/hpack/__pycache__/table.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "5dec948932c4f740674b1afb551223ada0c55103f4c7bf86a110454da3d27cb8",
+  "size": 25341,
+  "subdir": "noarch",
+  "timestamp": 1598856368000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/hpack-4.0.0-pyh9f0ad1d_0.tar.bz2",
+  "version": "4.0.0"
+}

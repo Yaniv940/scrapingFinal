@@ -1,0 +1,12 @@
+prefix=C:/Users/YanivIdov/anaconda3/envs/my_scrapy_venv/Library
+exec_prefix=C:/Users/YanivIdov/anaconda3/envs/my_scrapy_venv/Library
+libdir=C:/Users/YanivIdov/anaconda3/envs/my_scrapy_venv/Library/lib
+includedir=C:/Users/YanivIdov/anaconda3/envs/my_scrapy_venv/Library/include
+
+
+Name: libexslt
+Version: 0.8.21
+Description: EXSLT Extension library
+Requires: libxml-2.0, libxslt
+Cflags: -I${includedir}
+Libs: -L${libdir} -lexslt

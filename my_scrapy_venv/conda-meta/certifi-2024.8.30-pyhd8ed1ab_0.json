@@ -1,0 +1,64 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.7"
+  ],
+  "extracted_package_dir": "C:\\Users\\YanivIdov\\anaconda3\\pkgs\\certifi-2024.8.30-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/certifi-2024.8.30.dist-info/INSTALLER",
+    "Lib/site-packages/certifi-2024.8.30.dist-info/LICENSE",
+    "Lib/site-packages/certifi-2024.8.30.dist-info/METADATA",
+    "Lib/site-packages/certifi-2024.8.30.dist-info/RECORD",
+    "Lib/site-packages/certifi-2024.8.30.dist-info/REQUESTED",
+    "Lib/site-packages/certifi-2024.8.30.dist-info/WHEEL",
+    "Lib/site-packages/certifi-2024.8.30.dist-info/direct_url.json",
+    "Lib/site-packages/certifi-2024.8.30.dist-info/top_level.txt",
+    "Lib/site-packages/certifi/__init__.py",
+    "Lib/site-packages/certifi/__main__.py",
+    "Lib/site-packages/certifi/cacert.pem",
+    "Lib/site-packages/certifi/core.py",
+    "Lib/site-packages/certifi/py.typed",
+    ".nonadmin",
+    "Lib/site-packages/certifi/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/certifi/__pycache__/__main__.cpython-312.pyc",
+    "Lib/site-packages/certifi/__pycache__/core.cpython-312.pyc"
+  ],
+  "fn": "certifi-2024.8.30-pyhd8ed1ab_0.conda",
+  "license": "ISC",
+  "link": {
+    "source": "C:\\Users\\YanivIdov\\anaconda3\\pkgs\\certifi-2024.8.30-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "12f7d00853807b0531775e9be891cb11",
+  "name": "certifi",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\YanivIdov\\anaconda3\\pkgs\\certifi-2024.8.30-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/certifi/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/certifi/__pycache__/__main__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/certifi/__pycache__/core.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "7020770df338c45ac6b560185956c32f0a5abf4b76179c037f115fc7d687819f",
+  "size": 163752,
+  "subdir": "noarch",
+  "timestamp": 1725278204000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/certifi-2024.8.30-pyhd8ed1ab_0.conda",
+  "version": "2024.8.30"
+}

@@ -1,0 +1,50 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.8"
+  ],
+  "extracted_package_dir": "C:\\Users\\YanivIdov\\anaconda3\\pkgs\\protego-0.3.1-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/Protego-0.3.1.dist-info/INSTALLER",
+    "Lib/site-packages/Protego-0.3.1.dist-info/LICENSE",
+    "Lib/site-packages/Protego-0.3.1.dist-info/METADATA",
+    "Lib/site-packages/Protego-0.3.1.dist-info/RECORD",
+    "Lib/site-packages/Protego-0.3.1.dist-info/REQUESTED",
+    "Lib/site-packages/Protego-0.3.1.dist-info/WHEEL",
+    "Lib/site-packages/Protego-0.3.1.dist-info/direct_url.json",
+    "Lib/site-packages/Protego-0.3.1.dist-info/top_level.txt",
+    "Lib/site-packages/protego.py",
+    ".nonadmin",
+    "Lib/site-packages/__pycache__/protego.cpython-312.pyc"
+  ],
+  "fn": "protego-0.3.1-pyhd8ed1ab_0.conda",
+  "license": "BSD-3-Clause-Clear",
+  "link": {
+    "source": "C:\\Users\\YanivIdov\\anaconda3\\pkgs\\protego-0.3.1-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "61b9454cecfd84ccbe45c02ea1e21b88",
+  "name": "protego",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\YanivIdov\\anaconda3\\pkgs\\protego-0.3.1-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/__pycache__/protego.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "390c6944b9cdd037ff8ea1efbcc394a17f8e65a36874dd5448a755800b37a86a",
+  "size": 2401141,
+  "subdir": "noarch",
+  "timestamp": 1712316710000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/protego-0.3.1-pyhd8ed1ab_0.conda",
+  "version": "0.3.1"
+}
